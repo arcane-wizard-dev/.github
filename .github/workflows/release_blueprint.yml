@@ -54,7 +54,7 @@ jobs:
       - name: Checkout Central Scripts
         uses: actions/checkout@v6
         with:
-          repository: wow-addon-dev/toolkit
+          repository: arcane-wizard-dev/toolkit
           path: toolkit
           token: ${{ secrets.BOT_TOKEN }}
 
@@ -131,7 +131,7 @@ jobs:
       - name: Checkout Toolkit Repository
         uses: actions/checkout@v6
         with:
-          repository: wow-addon-dev/toolkit
+          repository: arcane-wizard-dev/toolkit
           path: toolkit
           token: ${{ secrets.BOT_TOKEN }}
 
