@@ -7,6 +7,7 @@ body:
       label: Game Version
       options:
         - Retail
+        - Forever
         - Mist of Pandaria - Classic
         - Burning Crusade - Classic Anniversary Edition
         - Classic
