@@ -6,13 +6,13 @@ Arcane Wizard is a small group of hobby developers who enjoy creating World of W
 
 | Addon | Description |
 | :--- | :--- |
-| **[Aurarium](https://github.com/arcane-wizard-dev/Aurarium)** | This addon provides a detailed insight into wealth progression by tracking gold and currencies across all characters and displaying them over time. It helps you keep an accurate eye on your daily and monthly earnings. |
-| **[Commodum](https://github.com/arcane-wizard-dev/Commodum)** | This addon adds a few quality-of-life improvements to everyday gameplay. |
-| **[Expositum](https://github.com/arcane-wizard-dev/Expositum)** | This addon provides additional information about items directly in the tooltip. |
-| **[Horatum](https://github.com/arcane-wizard-dev/Horatum)** | This addon tracks every boss encounter and saves your fastest victories. It provides real-time feedback during combat and keeps a record of your performance across different difficulties. |
-| **[Memento](https://github.com/arcane-wizard-dev/Memento)** | This addon automatically takes screenshots of meaningful gameplay events and personal milestones. It supports a wide variety of triggers, ensuring you never miss a great shot again. |
-| **[Percursus](https://github.com/arcane-wizard-dev/Percursus)** | This addon displays a live timer during a race (e.g., Dragonriding & Skyriding) and provides a detailed time overview of all completed races. It is compatible with all race types, including Skyriding, Dragonriding, Skyrocketing, and Breakneck (D.R.I.V.E.). It helps you track your performance in real-time and keep an eye on your records. |
-| **[Arcane&nbsp;Wizard:&nbsp;Library](https://github.com/arcane-wizard-dev/Library)** | This is a library that bundles recurring code segments and functionalities. Originally developed to optimize the code of my own addons, it is designed to be easily utilized by other addon developers. |
+| **[Aurarium](https://github.com/arcane-wizard-dev/Aurarium)** | This addon helps you keep track of your wealth across your characters. It brings your recorded balances together and makes their development over time easier to follow. |
+| **[Commodum](https://github.com/arcane-wizard-dev/Commodum)** | This addon simplifies everyday gameplay with optional quality-of-life improvements. It takes care of routine actions and lets you adapt parts of the interface to your preferences. |
+| **[Expositum](https://github.com/arcane-wizard-dev/Expositum)** | This addon makes item tooltips more informative. It brings additional details into the tooltip and gives you control over how they are presented. |
+| **[Horatum](https://github.com/arcane-wizard-dev/Horatum)** | This addon keeps track of timing and results for supported boss encounters. Its display helps you follow the current fight, and your results are saved for later reference. |
+| **[Memento](https://github.com/arcane-wizard-dev/Memento)** | This addon preserves memories of your adventures with automatic screenshots. It captures selected moments for you and lets you adapt the capture process to your preferences. |
+| **[Percursus](https://github.com/arcane-wizard-dev/Percursus)** | This addon helps you track and compare your performance in supported races, including Skyriding, Skyrocketing, and Breakneck (D.R.I.V.E.). It shows your progress live during a race and gathers your times and targets in clear overviews. |
+| **[Arcane&nbsp;Wizard:&nbsp;Library](https://github.com/arcane-wizard-dev/Library)** | This addon provides the shared foundation of all Arcane Wizard addons. It bundles the components they have in common, so each addon can focus on its own features. |
 
 ## Contributions & Support
 
